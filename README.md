@@ -20,9 +20,6 @@
 <h3 >:wrench:Working Tools</h3>
 <p >
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Rider-c82848?style=flat-square&logo=Rider&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/Unity-d0d0d0?style=flat-square&logo=Unity&logoColor=000000"/></a>&nbsp
-  <img src="https://img.shields.io/badge/UE4-313131?style=flat-square&logo=Unreal%20Engine&logoColor=White"/></a>&nbsp 
   
  </p>
   
