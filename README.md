@@ -11,10 +11,7 @@
 <h3 >:computer:My Languages</h3>
   
 <p >
-  <img src="https://img.shields.io/badge/%20C-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-17c1d0?logo=C&labelColor=0e7b85"/></a>
-  <img src="https://img.shields.io/badge/%20C%2B%2B-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3158ff?logo=C%2B%2B&labelColor=0025c2"/></a>
-  <img src="https://img.shields.io/badge/%20C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-77c416?logo=C%20Sharp&labelColor=4c7e0e"/></a>
-  <img src="https://img.shields.io/badge/%20MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-ffd700?logo=MySQL&logoColor=white&labelColor=a38a00"/></a>
+
 </p>
 
 <h3 >:wrench:Working Tools</h3>
